@@ -1,0 +1,292 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Nike Air Max",
+        "price": 120.00,
+        "category": "men's shoes",
+        "image": "/image/shoes 17.jpeg",
+        "rating": {
+          "rate": 5.0,
+          "count": 300
+        }
+      },
+      {
+        "id": 2,
+        "title": "Patent leather",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 18.jpeg",
+        "rating": {
+          "rate": 3.2,
+          "count": 100
+        }
+      },
+      {
+        "id": 3,
+        "title": "Vintage leather shoes",
+        "price": 200.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 19.jpeg",
+        "rating": {
+          "rate": 4.3,
+          "count": 200
+        }
+      },
+      {
+        "id": 4,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 20.jpeg",
+        "rating": {
+          "rate": 4.7,
+          "count": 150
+        }
+      },
+      {
+        "id": 5,
+        "title": "Timberland",
+        "price": 250.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 21.jpeg",
+        "rating": {
+          "rate": 4.7,
+          "count": 100
+        }
+      },
+      {
+        "id": 6,
+        "title": "Casual pretty slouchy (size 42-45)",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 22.jpeg",
+        "rating": {
+          "rate": 4.7,
+          "count": 200
+        }
+      },
+      {
+        "id": 7,
+        "title": "Casual pretty slouchy (size 42-45)",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 23.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 8,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 24.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 9,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 25.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 10,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 26.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 11,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 27.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 12,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 28.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 13,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 29.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 14,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 30.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 15,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 31.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 16,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 32.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 17,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 33.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 18,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 36.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },{
+        "id": 19,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 37.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 20,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoe 1.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 20,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoe 2.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 20,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoe 3.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 20,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes",
+        "image": "/image/shoes 4.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    },
+    {
+        "id": 20,
+        "title": "Adidas Ultraboost",
+        "price": 180.00,
+        "description": "The Adidas Ultraboost offers unmatched energy return and comfort.",
+        "category": "men's shoes", 
+        "image": "/image/shoes 5.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+    }
+
+    ]
+  }
+  
